@@ -1,0 +1,25 @@
+body{
+  padding: 20% 0px 0px 0px;
+  color: white;
+  background-color:black;
+  text-align: center;
+  font-family:sans-serif;
+margin:0px;
+}
+
+body.k{
+ padding:0px 0px 0px 0px;
+}
+
+body.m{
+ padding:25% 0px 0px 0px;
+}
+
+h1{
+ font-size:120pt;
+}
+h2{
+ font-size:40pt;
+}
+
+h1 a, h2 a {color:white;text-decoration:none}
